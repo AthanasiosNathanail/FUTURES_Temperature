@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+altair
+scikit-learn
+graphviz
+xlsxwriter
+openpyxl
